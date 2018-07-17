@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Columbus Ale Trail</string>
+    <string name="tab_text_1">The Trail</string>
+    <string name="tab_text_2">Ale Trail Breweries</string>
+    <string name="tab_text_3">Brewer\'s Row</string>
+    <string name="tab_text_4">Supporting Partners</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Columbus Ale Trail brewery info -->
+    <string name="actual_brewing">Actual Brewing Co.</string>
+    <string name="actual_brewing_address">655 N. James Rd, Columbus</string>
+    <string name="actual_brewing_website">www.actualbrewing.com</string>
+
+    <string name="barleys_brewing">Barley\'s Brewing Co.</string>
+    <string name="barleys_address">467 N. High St, Columbus</string>
+    <string name="barleys_website">www.barleysbrewing.com</string>
+
+    <string name="brew_bros_name">The Brew Brothers</string>
+    <string name="brew_bros_address">6000 S. High St, Columbus</string>
+    <string name="brew_bros_website">www.sciotodowns.com/dining/the-brew-brothers</string>
+
+    <string name="brewdog_dogtap">Brewdog Dogtap</string>
+    <string name="brewdog_address">96 Gender Rd, Canal Winchester</string>
+    <string name="brewdog_website">www.brewdog.com/usa/brewery/usa-brewery</string>
+
+    <string name="bucks_brewing">Buck\'s Brewing</string>
+    <string name="bucks_address">993 Mt. Vernon Rd, Newark</string>
+    <string name="bucks_website">www.facebook.com/bucksbrewing</string>
+
+    <string name="buckeye_brewing">Buckeye Lake Brewery</string>
+    <string name="buckeye_address">5176 Walnut Rd, Buckeye Lake</string>
+    <string name="buckeye_website">www.buckeyelakebrewery.com</string>
+
+    <string name="combustion_brewing">Combustion Brewery</string>
+    <string name="combustion_address">80 W. Church St. Ste. 101, Pickerington</string>
+    <string name="combustion_website">www.combustionbrewing.com</string>
+
+    <string name="dalton_brewing">Dalton Union Winery &amp; Brewery</string>
+    <string name="dalton_address">21100 Shirk Rd, Marysville</string>
+    <string name="dalton_website">www.daltonunion.com</string>
+
+    <string name="dankhouse_brewing">Dankhouse Brewing Company</string>
+    <string name="dankhouse_address">161 Forry St, Newark</string>
+    <string name="dankhouse_website">www.dankhousebrewing.com</string>
+
+    <string name="double_brewing">Double Edge Brewing Co.</string>
+    <string name="double_address">158 W. Chestnut St, Lancaster</string>
+    <string name="double_website">www.double-edge.beer</string>
+
+    <string name="elevator_brewing">Elevator Brewery and Draught House</string>
+    <string name="elevator_address">161 N. High st, Columbus</string>
+    <string name="elevator_website">www.elevatorbrewing.com</string>
+
+    <string name="endeavor_brewing">Endeavor Brewing Company</string>
+    <string name="endeavor_address">909 West 5th Ave, Columbus</string>
+    <string name="endeavor_website">www.endeavorbrewingco.com</string>
+
+    <string name="four_brewing">Four String Brewing Company Hilltop Taproom</string>
+    <string name="four_address">660 N. Hague Ave, Columbus</string>
+    <string name="four_website">www.fourstringbrewing.com/west-side-production-facility-and-taproom</string>
+
+    <string name="grove_brewing">Grove City Brewing Co.</string>
+    <string name="grove_address">3946 Broadway, Grove City</string>
+    <string name="grove_website">www.grovecitybrewingcompany.com</string>
+
+    <string name="gordon_brewing">Gordon Biersch Brewery</string>
+    <string name="gordon_address">401 N. Front St, Columbus</string>
+    <string name="gordon_website">www.gordonbiersch.com/locations/columbus?action=view</string>
+
+    <string name="hof_brewing">Hofbrauhaus Columbus</string>
+    <string name="hof_address">800 Goodale Blvd, Columbus</string>
+    <string name="hof_website">www.hofbrauhauscolumbus.com</string>
+
+    <string name="homestead_brewing">Homestead Beer Co.</string>
+    <string name="homestead_address">811 Irving Wick Dr, W Heath</string>
+    <string name="homestead_website">www.homesteadbeerco.com</string>
+
+    <string name="ill_brewing">Ill Mannered Brewing Co.</string>
+    <string name="ill_address">30 Grace Dr, Powell</string>
+    <string name="ill_website">www.illmannaredbeer.com</string>
+
+    <string name="hoof_brewing">Hoof Hearted Brewery and Kitchen</string>
+    <string name="hoof_address">850 N. 4th St, Columbus</string>
+    <string name="hoof_website">www.hoofheartedbrewing.com</string>
+
+    <string name="kindred_brewing">Kindred Beer</string>
+    <string name="kindred_address">505 Morrison Rd, Gahanna</string>
+    <string name="kindred_website">www.kindredales.com</string>
+
+    <string name="knotty_brewing">Knotty Pine Brewing</string>
+    <string name="knotty_address">1765 W. 3rd Ave, Columbus</string>
+    <string name="knotty_website">www.knottypinebrewing.net</string>
+
+    <string name="land_brewing">Land Grant Brewing Co.</string>
+    <string name="land_address">424 W. Town St, Columbus</string>
+    <string name="land_website">www.landgrantbrewing.com</string>
+
+    <string name="lineage_brewing">Lineage Brewing</string>
+    <string name="lineage_address">2971 N. High St, Columbus</string>
+    <string name="lineage_website">www.lineagebrew.com</string>
+
+    <string name="loose_brewing">Loose Rail Brewing</string>
+    <string name="loose_address">37 W. Waterloo St, Canal Winchester</string>
+    <string name="loose_website">www.looserailbrewing.com</string>
+
+    <string name="north_brewing">North High Brewing</string>
+    <string name="north_address">1288 N. High St, Columbus</string>
+    <string name="north_website">www.northhighbrewing.com</string>
+
+    <string name="pigskin_brewing">Pigskin Brewing Company</string>
+    <string name="pigskin_address">81 Mill St. Ste. 150, Gahanna</string>
+    <string name="pigskin_website">www.pigskinbrewingcompany.com</string>
+
+    <string name="platform_brewing">Platform Beer Co.</string>
+    <string name="platform_address">408 N. 6th St, Columbus</string>
+    <string name="platform_website">www.platformbeer.co</string>
+
+    <string name="pretentious_brewing">Pretentious Barrel House</string>
+    <string name="pretentious_address">745 Taylor Ave, Columbus</string>
+    <string name="pretentious_website">www.pretentiousbarrelhouse.com</string>
+
+    <string name="random_brewing">Random Precision Brewing Company</string>
+    <string name="random_address">2365 W. Dublin-Granville Rd, Columbus</string>
+    <string name="random_website">www.randomprecisionbrewing.com</string>
+
+    <string name="restoration_brewing">Restoration Brew Worx</string>
+    <string name="restoration_address">25 N. Sandusky St, Delaware</string>
+    <string name="restoration_website">www.restorationbrewworx.com</string>
+
+    <string name="rockmill_brewing">Rockmill Brewery</string>
+    <string name="rockmill_address">5705 Lithopolis Rd. NW, Lancaster</string>
+    <string name="rockmill_website">www.rockmillbrewery.com</string>
+
+    <string name="seventh_brewing">Seventh Son Brewing Co.</string>
+    <string name="seventh_address">1101 N. 4th St, Columbus</string>
+    <string name="seventh_website">www.seventhsonbrewing.com</string>
+
+    <string name="sideswipe_brewing">Sideswipe Brewing Company</string>
+    <string name="sideswipe_address">2419 Scioto Harper Dr, Columbus</string>
+    <string name="sideswipe_website">www.sideswipebrewing.com</string>
+
+    <string name="smokehouse_brewing">Smokehouse Brewing Co.</string>
+    <string name="smokehouse_address">1130 Dublin Rd, Columbus</string>
+    <string name="smokehouse_website">www.smokehousebrewing.com</string>
+
+    <string name="staas_brewing">Stass Brewing Co.</string>
+    <string name="stass_address">31 W. Winter St, Deleware</string>
+    <string name="stass_website">www.stassbrewing.com</string>
+
+    <string name="temperance_brewing">Temperance Row Brewing Co.</string>
+    <string name="temperance_address">41 N. State St, Westerville</string>
+    <string name="temperance_website">www.uptowndeliandbrew.com</string>
+
+    <string name="ram_brewing">The Ram Restaurant and Brewery</string>
+    <string name="ram_address">6623 Longshore St, Dublin</string>
+    <string name="ram_website">www.theram.com</string>
+
+    <string name="three_brewing">Three Tigers Brewing Co.</string>
+    <string name="three_address">140 N. Prospect St, Granville</string>
+    <string name="three_website">www.threetigersbrewing.com</string>
+
+    <string name="trek_brewing">Trek Brewing</string>
+    <string name="trek_address">1486 Granville Rd, Newark</string>
+    <string name="trek_website">www.trekbeer.com</string>
+
+    <string name="wolfs_brewing">Wolf\'s Ridge Brewing</string>
+    <string name="wolfs_address">215 N. 4th St, Columbus</string>
+    <string name="wolfs_website">www.wolfsridgebrewing.com</string>
+
+    <string name="zaftig_brewing">Zaftig Brewing Co.</string>
+    <string name="zaftig_address">7020-A Huntley Rd, Worthington</string>
+    <string name="zaftig_website">drinkzaftig.com</string>
+
+</resources>
